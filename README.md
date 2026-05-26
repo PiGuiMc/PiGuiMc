@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PiGuiMc
 - 👀 I’m interested in development.
 - 🌱 I’m currently learning Python, React, R, C++.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me guiii.mc@hotmail.com
 
 <!---
